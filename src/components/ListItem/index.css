@@ -1,0 +1,29 @@
+.list-item{
+    border-bottom:1px solid lightgray;
+}
+.edit-button{
+    border:skyblue 2px solid;
+    background-color:transparent;
+    border-radius: 5px;
+}
+.delete-button{
+    border:black 2px solid;
+    background-color:transparent;
+    border-radius: 5px;
+}
+.status-button{
+    background-color:transparent;
+    border-radius: 5px;
+}
+.black{
+color:black;
+border: black 2px solid;
+}
+.yellow{
+color:yellow;
+border:yellow 2px solid;
+}
+.green{
+    color:green;
+    border:green 2px solid; 
+}
